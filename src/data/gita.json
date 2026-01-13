@@ -1,0 +1,806 @@
+[
+  {
+    "chapter": 2,
+    "verse": 47,
+    "shloka": "Karmanye vadhikaraste ma phaleshu kadachana.",
+    "translation": "You have the right to perform your actions, but never to the results.",
+    "message": "✨ Chapter 2, Verse 47 reminds you not to stress about outcomes. Just do your best with sincerity, and let life unfold naturally. 🌿 Trust that the universe will reward your efforts at the right time. 😊",
+    "keywords": ["result", "outcome", "worry", "fear", "anxiety"]
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "shloka": "Yada yada hi dharmasya glanir bhavati bharata.",
+    "translation": "Whenever dharma declines, I manifest Myself.",
+    "message": "🌟 Chapter 4, Verse 7 assures you that whenever life feels unfair or overwhelming, divine help appears in subtle ways. 🌈 You are protected, guided, and never alone. 🤍",
+    "keywords": ["unfair", "help", "support", "protection"]
+  },
+  {
+    "chapter": 6,
+    "verse": 30,
+    "shloka": "Yo mam pashyati sarvatra sarvam cha mayi pashyati.",
+    "translation": "One who sees Me everywhere and everything in Me never feels separated from Me.",
+    "message": "💛 Chapter 6, Verse 30 reminds you that divine love surrounds you. Even in loneliness, Krishna walks with you, holding your heart gently. 🌼 You are never truly alone. 🤗",
+    "keywords": ["alone", "lonely", "separation", "sad"]
+  },
+  {
+    "chapter": 12,
+    "verse": 15,
+    "shloka": "Yasmannodvijate loko lokannodvijate cha yah.",
+    "translation": "One who never disturbs others and who is never disturbed by anything is very dear to Me.",
+    "message": "🕊️ Chapter 12, Verse 15 encourages calmness and inner peace. Stay centered, stay gentle — your peaceful heart is your true strength. 💫",
+    "keywords": ["disturbed", "angry", "irritated", "peace"]
+  },
+  {
+    "chapter": 18,
+    "verse": 66,
+    "shloka": "Sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja.",
+    "translation": "Surrender fully unto Me. I shall protect you from all sins; do not fear.",
+    "message": "🌺 Chapter 18, Verse 66 is a warm embrace from Krishna — 'Give me your worries, your doubts, your pain. I will protect you.' 💞 Let go and trust the divine plan. 🙏",
+    "keywords": ["fear", "worry", "stress", "tense"]
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "shloka": "Tasmād asaktaḥ satataṁ kāryaṁ karma samāchara.",
+    "translation": "Therefore, always perform your duty without attachment.",
+    "message": "🌿 Chapter 3, Verse 19 teaches you to keep moving forward even when results are uncertain. 🌤️ Your consistency today becomes your success tomorrow. 🌱 Keep going. 💪",
+    "keywords": ["work", "career", "job", "duty"]
+  },
+  {
+    "chapter": 2,
+    "verse": 23,
+    "shloka": "Nainam chindanti shastrani nainam dahati pavakah.",
+    "translation": "The soul can never be cut, burned, or destroyed.",
+    "message": "💫 Chapter 2, Verse 23 reminds you that your soul is powerful and indestructible. Whatever hurt you're carrying — it cannot break your true self. ✨ You are stronger than your pain. 🤍",
+    "keywords": ["hurt", "break", "pain", "heartbroken"]
+  },
+  {
+    "chapter": 10,
+    "verse": 10,
+    "shloka": "Teṣhāṁ satata-yuktānāṁ bhajatāṁ prīti-pūrvakam.",
+    "translation": "To those who worship Me with love, I give the understanding by which they come to Me.",
+    "message": "🌼 Chapter 10, Verse 10 says that sincere devotion brings clarity. When your heart is pure, the right path becomes visible naturally. 🌙 Trust your inner guidance. 🌟",
+    "keywords": ["confused", "decision", "guidance"]
+  },
+  {
+    "chapter": 6,
+    "verse": 5,
+    "shloka": "Uddhared ātmanātmānaṁ.",
+    "translation": "Lift yourself by your own mind; do not let yourself fall.",
+    "message": "💪 Chapter 6, Verse 5 reminds you that your biggest strength is inside you. 🧘‍♀️ Be kind to yourself, encourage yourself, and rise above self-doubt. You are capable. 🌟",
+    "keywords": ["self", "doubt", "motivation", "failure"]
+  },
+  {
+    "chapter": 12,
+    "verse": 13,
+    "shloka": "Adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha.",
+    "translation": "One who is friendly and compassionate is dear to Me.",
+    "message": "🤍 Chapter 12, Verse 13 celebrates kindness. Your gentle heart, your caring nature — these are your divine gifts. 🌸 Spread compassion; it returns to you multiplied. ✨",
+    "keywords": ["compassion", "kind", "friend", "love"]
+  }
+
+,
+  {
+    "chapter": 2,
+    "verse": 55,
+    "shloka": "Prajahāti yadā kāmān sarvān pārtha mano-gatān.",
+    "translation": "When a person gives up all desires of the mind, they find true peace.",
+    "message": "🌿 Chapter 2, Verse 55 reminds you that inner calm begins when you stop fighting your thoughts. Let go gently. 🌼 You deserve a heart that feels peaceful and light. 🕊️",
+    "keywords": ["overthinking", "thoughts", "stress", "peace"]
+  },
+  {
+    "chapter": 6,
+    "verse": 26,
+    "shloka": "Yato yato niśhcharati manaśh chañchalam asthiram.",
+    "translation": "Whenever the mind wanders, bring it back to the Self.",
+    "message": "🧘‍♀️ Chapter 6, Verse 26 teaches that it's okay if your mind drifts — just return gently to your center. 💜 You are doing better than you think. 🌙",
+    "keywords": ["overthink", "mind", "focus", "calm"]
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "shloka": "Mātrā-sparśās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ.",
+    "translation": "Happiness and sadness come and go like seasons.",
+    "message": "🌤️ Chapter 2, Verse 14 reminds you that no feeling is permanent. Your sadness will pass, your joy will return. 🌈 Hold on gently — brighter days are on their way. 💛",
+    "keywords": ["sad", "pain", "emotion", "feeling"]
+  },
+  {
+    "chapter": 10,
+    "verse": 41,
+    "shloka": "Yad yad vibhūtimat sattvaṁ.",
+    "translation": "Whatever is glorious, beautiful, or powerful comes from a spark of My splendor.",
+    "message": "✨ Chapter 10, Verse 41 reminds you that you carry divine brilliance. Your talent, your kindness, your strength — all reflect Krishna's light. 🌟 Believe in your glow. 🤍",
+    "keywords": ["talent", "strength", "beauty", "confidence"]
+  },
+  {
+    "chapter": 18,
+    "verse": 14,
+    "shloka": "Adhiṣhṭhānaṁ tathā kartā karaṇaṁ cha pṛithag-vidham.",
+    "translation": "Every action arises from many factors working together.",
+    "message": "🌼 Chapter 18, Verse 14 teaches you not to blame yourself for everything. Not all outcomes are in your control. 🌿 Be gentle with yourself — you're doing your best. 🤗",
+    "keywords": ["blame", "fault", "guilt", "mistake"]
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "shloka": "Brahmaṇy ādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ.",
+    "translation": "One who acts without attachment remains untouched by negativity.",
+    "message": "⚖️ Chapter 5, Verse 10 reminds you to do your work with a free heart. Don’t let others' negativity disturb your peace. 💛 Stay focused, stay calm, stay you. 🌻",
+    "keywords": ["negativity", "people", "hurt", "peace"]
+  },
+  {
+    "chapter": 18,
+    "verse": 58,
+    "shloka": "Mach-chittaḥ sarva-durgāṇi mat-prasādāt tariṣhyasi.",
+    "translation": "If your mind is fixed on Me, by My grace you will overcome all obstacles.",
+    "message": "🌺 Chapter 18, Verse 58 is Krishna’s promise: You will rise. You will heal. You will overcome every difficulty with divine support. 🕊️ Trust the path unfolding for you. ✨",
+    "keywords": ["problem", "stress", "obstacle", "difficulty"]
+  },
+  {
+    "chapter": 6,
+    "verse": 7,
+    "shloka": "Jitātmanaḥ praśhāntasya paramātmā samāhitaḥ.",
+    "translation": "The one who has conquered the mind finds peace everywhere.",
+    "message": "🌙 Chapter 6, Verse 7 reminds you that your true peace comes from within. Don’t let the outside world shake your inner harmony. 🧘‍♂️ You are stronger than chaos. 💜",
+    "keywords": ["peace", "mind", "calm", "chaos"]
+  },
+  {
+    "chapter": 12,
+    "verse": 20,
+    "shloka": "Mad-bhaktā yete te me priyāḥ.",
+    "translation": "Those who follow this path with faith and love are very dear to Me.",
+    "message": "💖 Chapter 12, Verse 20 is Krishna whispering to you: 'You are dear to Me. Your devotion, your heart, your sincerity — all are precious.' 🌸 You are loved. ✨",
+    "keywords": ["love", "faith", "devotion", "heart"]
+  },
+  {
+    "chapter": 3,
+    "verse": 30,
+    "shloka": "Mayi sarvāṇi karmāṇi sannyasyādhyātma-chetasā.",
+    "translation": "Offer all actions unto Me, with a spiritual outlook.",
+    "message": "🌼 Chapter 3, Verse 30 encourages you to surrender your stress, your doubt, your worries. When you act with trust, everything becomes lighter. ☀️ Krishna is with you. 💛",
+    "keywords": ["stress", "worry", "trust", "light"]
+  }
+,
+  {
+    "chapter": 2,
+    "verse": 20,
+    "shloka": "Na jāyate mriyate vā kadācin.",
+    "translation": "The soul is never born and never dies.",
+    "message": "✨ Chapter 2, Verse 20 reminds you that your true self is eternal and untouched by fear, pain, or endings. 🌼 No matter what you're going through, your inner light cannot be destroyed. 💛",
+    "keywords": ["death", "fear", "life", "end", "pain"]
+  },
+  {
+    "chapter": 3,
+    "verse": 30,
+    "shloka": "Mayi sarvāṇi karmāṇi sannyasyādhyātma-cetasā.",
+    "translation": "Dedicate all your actions to Me with a peaceful mind.",
+    "message": "🌿 Chapter 3, Verse 30 teaches surrender — do your best, offer the rest. 🌸 When you let go of unnecessary stress, everything becomes lighter and easier. 🤍",
+    "keywords": ["stress", "pressure", "overthinking", "tension"]
+  },
+  {
+    "chapter": 4,
+    "verse": 38,
+    "shloka": "Na hi jñānena sadṛiśhaṁ pavitram iha vidyate.",
+    "translation": "There is nothing purifying as knowledge.",
+    "message": "📘 Chapter 4, Verse 38 encourages you to keep learning. 🌟 Every bit of knowledge you gain pushes you closer to clarity, peace, and purpose. ✨",
+    "keywords": ["study", "learning", "knowledge", "exam"]
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "shloka": "Brahmaṇy ādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ.",
+    "translation": "One who performs duties without attachment remains untouched by sin.",
+    "message": "🕊️ Chapter 5, Verse 10 says that when you work with a pure heart, nothing can disturb your inner peace. Let go of attachments — be free. 🌼",
+    "keywords": ["attachment", "let go", "peace"]
+  },
+  {
+    "chapter": 6,
+    "verse": 26,
+    "shloka": "Yato yato niśhcharati manaśh chañchalam asthiram.",
+    "translation": "Wherever the restless mind wanders, bring it back under control.",
+    "message": "🧘‍♀️ Chapter 6, Verse 26 is your guide for overthinking. 🌙 Whenever your mind drifts to anxiety, gently bring it back. Calmness comes one breath at a time. 🌬️",
+    "keywords": ["overthinking", "mind", "anxiety", "focus"]
+  },
+  {
+    "chapter": 7,
+    "verse": 7,
+    "shloka": "Mattaḥ parataraṁ nānyat kiñchid asti dhanañjaya.",
+    "translation": "Nothing is superior to Me.",
+    "message": "🌟 Chapter 7, Verse 7 assures you that divine strength flows through you. When you trust Krishna, no challenge is bigger than you. 💪",
+    "keywords": ["strength", "challenge", "power"]
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "shloka": "Tasmāt sarveṣu kāleṣu mām anusmara yudhya cha.",
+    "translation": "Think of Me always, and fight your battles.",
+    "message": "⚔️ Chapter 8, Verse 7 encourages you to stay strong. Even in tough times, Krishna walks beside you, guiding you through every battle. 🤍",
+    "keywords": ["battle", "fight", "tough", "hard time"]
+  },
+  {
+    "chapter": 9,
+    "verse": 22,
+    "shloka": "Yoga-kṣhemaṁ vahāmy aham.",
+    "translation": "I personally take care of the needs of My devotees.",
+    "message": "🌼 Chapter 9, Verse 22 is Krishna's promise: 'I will take care of you.' 💛 Trust His timing — blessings are already on the way. 🌈",
+    "keywords": ["help", "need", "support", "care"]
+  },
+  {
+    "chapter": 10,
+    "verse": 41,
+    "shloka": "Yad yad vibhūtimat sattvaṁ śhrīmad ūrjitam eva vā.",
+    "translation": "Anything beautiful or powerful springs from a spark of My glory.",
+    "message": "✨ Chapter 10, Verse 41 shows that beauty, talent, and strength around you are divine gifts. 🌟 You carry that same spark within you! 💫",
+    "keywords": ["beauty", "talent", "power", "gift"]
+  },
+  {
+    "chapter": 11,
+    "verse": 33,
+    "shloka": "Nimitta-mātram bhava savyasāchin.",
+    "translation": "Be an instrument in the divine plan.",
+    "message": "🌺 Chapter 11, Verse 33 reminds you that destiny already favors you. 🌙 You’re meant for great things — just allow the divine plan to unfold. 🌼",
+    "keywords": ["destiny", "purpose", "plan"]
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "shloka": "Ye tu sarvāṇi karmāṇi mayi sannyasya mat-paraḥ.",
+    "translation": "Those who surrender all actions unto Me reach Me easily.",
+    "message": "🤍 Chapter 12, Verse 6 tells you that surrender brings peace. When you stop forcing outcomes, life becomes softer, calmer, and more beautiful. ✨",
+    "keywords": ["surrender", "peace", "calm"]
+  },
+  {
+    "chapter": 13,
+    "verse": 28,
+    "shloka": "Samam sarveṣu bhūteṣu tiṣṭhantaṁ parameśvaram.",
+    "translation": "The Supreme dwells equally in all beings.",
+    "message": "🌏 Chapter 13, Verse 28 teaches equality and compassion. Treat everyone with love — each soul is a reflection of Krishna. 💛",
+    "keywords": ["everyone", "equal", "humanity"]
+  },
+  {
+    "chapter": 14,
+    "verse": 26,
+    "shloka": "Mām chayo ’vyabhichāreṇa bhakti-yogena sevate.",
+    "translation": "One who serves Me with unwavering devotion transcends the gunas.",
+    "message": "🌙 Chapter 14, Verse 26 shows the power of devotion. A heart filled with love rises above negativity, fear, and confusion. 🌼",
+    "keywords": ["devotion", "bhakti", "love", "negativity"]
+  },
+  {
+    "chapter": 15,
+    "verse": 15,
+    "shloka": "Sarvasya chāhaṁ hṛidi sanniviṣhṭo.",
+    "translation": "I dwell in the heart of all beings.",
+    "message": "💛 Chapter 15, Verse 15 reminds you that Krishna lives within you. 🌟 Talk to Him anytime — He listens quietly from your heart. 🤍",
+    "keywords": ["heart", "inside", "within", "presence"]
+  },
+  {
+    "chapter": 16,
+    "verse": 2,
+    "shloka": "Ahimsā satyam akrodhas tyāgaḥ śhāntir apaiśhunam.",
+    "translation": "Non-violence, truth, calmness, and purity are divine qualities.",
+    "message": "🕊️ Chapter 16, Verse 2 invites you to choose peace over anger. 🌿 Your softness is not weakness — it is divine strength. ✨",
+    "keywords": ["anger", "peace", "truth", "calm"]
+  },
+  {
+    "chapter": 17,
+    "verse": 3,
+    "shloka": "Śhraddhāmayo ’yaṁ puruṣho.",
+    "translation": "A person is made of their faith.",
+    "message": "🌟 Chapter 17, Verse 3 says your beliefs shape your life. Believe in yourself, believe in good — and good will come. 🌈",
+    "keywords": ["belief", "faith", "trust", "confidence"]
+  },
+  {
+    "chapter": 18,
+    "verse": 14,
+    "shloka": "Adhiṣhṭhānaṁ tathā kartā karaṇaṁ cha pṛithag-vidham.",
+    "translation": "Five factors determine all actions.",
+    "message": "📘 Chapter 18, Verse 14 reminds you: not everything is in your control. Don't blame yourself for what isn't your fault. 🌼",
+    "keywords": ["blame", "guilt", "control"]
+  },
+  {
+    "chapter": 2,
+    "verse": 38,
+    "shloka": "Sukha-duḥkhe same kṛitvā lābhālābhau jayājayau.",
+    "translation": "Treat happiness and distress, gain and loss equally.",
+    "message": "🌿 Chapter 2, Verse 38 encourages balance. 🌙 Don't let highs make you arrogant, or lows make you hopeless. Stay centered — that's true strength. 💛",
+    "keywords": ["sad", "happy", "loss", "gain", "emotion"]
+  },
+  {
+    "chapter": 6,
+    "verse": 7,
+    "shloka": "Jitātmanaḥ praśhāntasya paramātmā samāhitaḥ.",
+    "translation": "One who has conquered the mind is peaceful.",
+    "message": "✨ Chapter 6, Verse 7 tells you that peace begins within. Master your thoughts, and the world becomes gentle. 🌼",
+    "keywords": ["mind", "control", "peaceful"]
+  },
+  {
+    "chapter": 18,
+    "verse": 58,
+    "shloka": "Mach-chittaḥ sarva-durgāṇi mat-prasādāt tariṣhyasi.",
+    "translation": "Fix your mind on Me and you will cross all obstacles by My grace.",
+    "message": "🌈 Chapter 18, Verse 58 gives hope — no obstacle is permanent. With Krishna's grace, you will rise above everything holding you back. 💫",
+    "keywords": ["obstacle", "problem", "struggle", "hope"]
+  }
+,
+  {
+    "chapter": 1,
+    "verse": 40,
+    "shloka": "Adharmābhibhavāt kṛiṣhṇa praduṣhyanti kula-striyaḥ.",
+    "translation": "When unrighteousness dominates, the family structure weakens.",
+    "message": "🌿 Chapter 1, Verse 40 reminds you that chaos comes when values weaken. Stay rooted in goodness — your choices create harmony. 💛",
+    "keywords": ["family", "chaos", "problems", "values"]
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "shloka": "Dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā.",
+    "translation": "As the body changes from childhood to old age, the soul remains unchanged.",
+    "message": "✨ Chapter 2, Verse 13 teaches you to embrace change. Life moves forward, and every phase has beauty. 🌼 Trust the journey. 🌈",
+    "keywords": ["change", "life", "aging", "time"]
+  },
+  {
+    "chapter": 2,
+    "verse": 50,
+    "shloka": "Yogah karmasu kaushalam.",
+    "translation": "Yoga is excellence in action.",
+    "message": "💫 Chapter 2, Verse 50 reminds you to give your best in everything you do. Excellence comes through consistency, not perfection. 💪",
+    "keywords": ["excellence", "focus", "work", "improve"]
+  },
+  {
+    "chapter": 2,
+    "verse": 70,
+    "shloka": "Āpūryamāṇam achala-pratiṣhṭhaṁ samudram.",
+    "translation": "A wise person remains steady like an ocean, unaffected by endless desires.",
+    "message": "🌊 Chapter 2, Verse 70 teaches calmness. Let desires come and go like waves — stay steady within. 🕊️",
+    "keywords": ["desire", "calm", "peace", "want"]
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "shloka": "Yajñārthāt karmaṇo ’nyatra loko ’yaṁ karma-bandhanaḥ.",
+    "translation": "Work done as a sacrifice frees one from bondage.",
+    "message": "🌸 Chapter 3, Verse 9 reminds you that selfless work brings freedom. Serve with love, without expecting anything back. 🤍",
+    "keywords": ["selfless", "service", "expectation"]
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "shloka": "Ajopi sann avyayātmā bhūtānām īśhvaro ’pi san.",
+    "translation": "Although I am unborn and eternal, I appear through My own divine powers.",
+    "message": "🌟 Chapter 4, Verse 6 reassures you that divine help appears in mysterious ways. Trust the unseen forces working for your good. 🌼",
+    "keywords": ["divine", "help", "god", "spiritual"]
+  },
+  {
+    "chapter": 4,
+    "verse": 13,
+    "shloka": "Chātur-varṇyaṁ mayā sṛiṣhṭaṁ guṇa-karma-vibhāgaśhaḥ.",
+    "translation": "The four social orders were created based on qualities and actions.",
+    "message": "🌿 Chapter 4, Verse 13 teaches that your actions define you, not labels. You become what you choose every day. 🌱",
+    "keywords": ["identity", "choice", "life"]
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "shloka": "Yuktaḥ karma-phalaṁ tyaktvā śhāntim āpnoti naiṣhṭhikīm.",
+    "translation": "One who abandons attachment to results attains lasting peace.",
+    "message": "🕊️ Chapter 5, Verse 12 reminds you that peace comes when you stop worrying about 'what will happen.' Just flow with life. 🌙",
+    "keywords": ["peace", "attachment", "stress"]
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "shloka": "Vidya-vinaya-sampanne brāhmaṇe gavi hastini.",
+    "translation": "The wise see everyone with equal vision.",
+    "message": "🤍 Chapter 5, Verse 18 inspires humility. Real greatness sees no differences — only souls. 🌏",
+    "keywords": ["equal", "humanity", "kindness"]
+  },
+  {
+    "chapter": 6,
+    "verse": 47,
+    "shloka": "Yoginām api sarveṣhāṁ mad-gatenāntarātmanā.",
+    "translation": "The greatest yogi is one whose mind rests in Me with devotion.",
+    "message": "🌼 Chapter 6, Verse 47 reminds you that devotion is more powerful than perfection. A sincere heart is always closest to Krishna. 💛",
+    "keywords": ["devotion", "heart", "love"]
+  },
+  {
+    "chapter": 7,
+    "verse": 16,
+    "shloka": "Chatur-vidhā bhajante māṁ janāḥ sukṛitino ’rjuna.",
+    "translation": "Four kinds of people worship Me: the distressed, the curious, the seeker of wealth, and the wise.",
+    "message": "🌟 Chapter 7, Verse 16 says that turning to Krishna is always blessed — whether in pain, curiosity, or gratitude. 🤍",
+    "keywords": ["curious", "seek", "help", "wisdom"]
+  },
+  {
+    "chapter": 8,
+    "verse": 6,
+    "shloka": "Yaṁ yaṁ vā ’pi smaran bhāvaṁ tyajaty ante kalevaram.",
+    "translation": "Whatever one remembers at the moment of death, that state is attained.",
+    "message": "🌙 Chapter 8, Verse 6 says your thoughts shape your destiny. Think high, think pure — life will align. 🌈",
+    "keywords": ["thoughts", "destiny", "mindset"]
+  },
+  {
+    "chapter": 9,
+    "verse": 14,
+    "shloka": "Satataṁ kīrtayanto māṁ yatantaśh cha dṛiḍha-vratāḥ.",
+    "translation": "The great souls constantly chant My glories with determination.",
+    "message": "🌺 Chapter 9, Verse 14 teaches dedication — keep going even when things get tough. Determination brings blessings. 🌼",
+    "keywords": ["dedication", "determination", "devotion"]
+  },
+  {
+    "chapter": 9,
+    "verse": 26,
+    "shloka": "Patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati.",
+    "translation": "I accept even a leaf, flower, fruit, or water offered with devotion.",
+    "message": "💐 Chapter 9, Verse 26 shows that Krishna values love, not grand offerings. Even small acts with pure heart reach Him. 🤍",
+    "keywords": ["offering", "devotion", "love"]
+  },
+  {
+    "chapter": 10,
+    "verse": 20,
+    "shloka": "Aham ātmā guḍākeśha sarva-bhūtāśhaya-sthitaḥ.",
+    "translation": "I am the soul seated in the hearts of all beings.",
+    "message": "💛 Chapter 10, Verse 20 reminds you that Krishna lives within you — guiding, loving, supporting you silently. 🤲",
+    "keywords": ["with me", "heart", "inside"]
+  },
+  {
+    "chapter": 11,
+    "verse": 55,
+    "shloka": "Mat-karma-kṛin mat-paramo mad-bhaktaḥ.",
+    "translation": "One who works for Me and devotes himself to Me comes to Me.",
+    "message": "🌈 Chapter 11, Verse 55 teaches that devotion expressed through action brings you closest to the divine. Serve with love. 💫",
+    "keywords": ["serve", "devotion", "work"]
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "shloka": "Fix your mind upon Me, place your intellect in Me alone.",
+    "translation": "Then undoubtedly you shall live in Me.",
+    "message": "🌙 Chapter 12, Verse 8 reminds you to lean on Krishna when the mind feels scattered. His presence brings clarity and calm. 🌿",
+    "keywords": ["mind", "focus", "clarity"]
+  },
+  {
+    "chapter": 13,
+    "verse": 12,
+    "shloka": "Jñeyaṁ yat tat pravakṣhyāmi yat jñātvā ’mṛitam aśhnute.",
+    "translation": "I will explain what should be known, by knowing which one attains immortality.",
+    "message": "✨ Chapter 13, Verse 12 encourages you to seek deeper truth — wisdom is the path to freedom. 🌺",
+    "keywords": ["wisdom", "truth", "knowledge"]
+  },
+  {
+    "chapter": 14,
+    "verse": 24,
+    "shloka": "Samaduḥkha-sukhaṁ dhīraṁ.",
+    "translation": "One who stays steady in happiness and distress is wise.",
+    "message": "🌿 Chapter 14, Verse 24 teaches emotional balance. You become powerful when your peace doesn’t depend on circumstances. 🌱",
+    "keywords": ["emotion", "balance", "stable"]
+  },
+  {
+    "chapter": 18,
+    "verse": 62,
+    "shloka": "Tam eva śharaṇaṁ gachchha sarva-bhāvena bhārata.",
+    "translation": "Surrender wholly to Him, and by His grace you will attain supreme peace.",
+    "message": "🤍 Chapter 18, Verse 62 is pure comfort — give your worries to Krishna. He will carry what feels too heavy for you. 🌼",
+    "keywords": ["peace", "surrender", "worry", "trust"]
+  },
+  {
+    "chapter": 1,
+    "verse": 28,
+    "shloka": "dṛiṣhṭvemaṁ sva-janaṁ kṛiṣhṇa yuyutsuṁ samupasthitam.",
+    "translation": "Arjuna said — seeing my own people ready to fight, my limbs fail.",
+    "message": "💛 Chapter 1, Verse 28 reminds you that fear is natural — even the strongest hearts tremble. But courage begins right after fear. 🌼",
+    "keywords": ["fear", "anxiety", "courage"]
+  },
+  {
+    "chapter": 1,
+    "verse": 36,
+    "shloka": "pāpam evāśrayed asmān hatvaitān ātatāyinaḥ.",
+    "translation": "Arjuna says — if we kill them, sin will fall upon us.",
+    "message": "🌿 Chapter 1, Verse 36 teaches you to think before you act. Not every battle is worth fighting. Choose peace when possible. 🤍",
+    "keywords": ["choices", "peace", "violence"]
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "shloka": "aśhocyan anvaśhochas tvaṁ prajñā-vādāṁśh cha bhāṣhase.",
+    "translation": "The Lord said — you grieve for what is not worthy of grief.",
+    "message": "✨ Chapter 2, Verse 11 gently reminds you that most of what you worry about is temporary. Let go. Breathe. Trust. 🌙",
+    "keywords": ["grief", "worry", "trust"]
+  },
+  {
+    "chapter": 2,
+    "verse": 38,
+    "shloka": "sukha-duḥkhe same kṛitvā lābhālābhau jayājayau.",
+    "translation": "Treat happiness and distress, gain and loss, victory and defeat as equal.",
+    "message": "🌱 Chapter 2, Verse 38 teaches emotional balance — real strength is staying steady no matter the situation. 🌿",
+    "keywords": ["balance", "emotion", "calm"]
+  },
+  {
+    "chapter": 2,
+    "verse": 64,
+    "shloka": "rāga-dveṣha-viyuktais tu viṣhayān indriyaiśh charan.",
+    "translation": "One who moves through the world free from attachment and hatred attains peace.",
+    "message": "🕊️ Chapter 2, Verse 64 tells you that peace grows when you release extremes — neither cling nor resist. Flow gently. 🌊",
+    "keywords": ["attachment", "hatred", "peace"]
+  },
+  {
+    "chapter": 3,
+    "verse": 30,
+    "shloka": "mayi sarvāṇi karmāṇi sannyasyādhyātma-cetasā.",
+    "translation": "Dedicate all your actions unto Me with a pure mind.",
+    "message": "💫 Chapter 3, Verse 30 tells you to let Krishna carry your burdens. Do your best — leave the rest. 🌼",
+    "keywords": ["devotion", "peace", "surrender"]
+  },
+  {
+    "chapter": 3,
+    "verse": 34,
+    "shloka": "indriyasyendriyasyārthe rāga-dveṣhau vyavasthitau.",
+    "translation": "Attachment and aversion reside in the senses.",
+    "message": "🌸 Chapter 3, Verse 34 reminds you not to let cravings or dislikes control your life. You are stronger than impulses. ✨",
+    "keywords": ["control", "mind", "senses"]
+  },
+  {
+    "chapter": 4,
+    "verse": 9,
+    "shloka": "janma karma cha me divyam evaṁ yo vetti tattvataḥ.",
+    "translation": "One who understands My divine birth and actions is never reborn.",
+    "message": "🌟 Chapter 4, Verse 9 invites you to understand Krishna’s divine love — knowing Him deeply sets your soul free. 🤍",
+    "keywords": ["birth", "divine", "freedom"]
+  },
+  {
+    "chapter": 4,
+    "verse": 36,
+    "shloka": "api ched asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛit-tamaḥ.",
+    "translation": "Even if you are the most sinful, you can cross the ocean of sin by knowledge.",
+    "message": "💛 Chapter 4, Verse 36 says nothing in your past can block your future. Wisdom can transform everything. 🌼",
+    "keywords": ["past", "forgiveness", "wisdom"]
+  },
+  {
+    "chapter": 4,
+    "verse": 38,
+    "shloka": "na hi jñānena sadṛiśhaṁ pavitram iha vidyate.",
+    "translation": "There is nothing as purifying as knowledge.",
+    "message": "✨ Chapter 4, Verse 38 reminds you that learning heals. The more you grow, the lighter your heart becomes. 🌱",
+    "keywords": ["knowledge", "learning", "purity"]
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "shloka": "brahmaṇy ādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ.",
+    "translation": "One who performs actions without attachment remains untouched.",
+    "message": "🌿 Chapter 5, Verse 10 teaches you that detachment frees the mind. Work sincerely — not anxiously. 🕊️",
+    "keywords": ["work", "detachment", "peace"]
+  },
+  {
+    "chapter": 5,
+    "verse": 20,
+    "shloka": "na prahṛiṣhyet priyaṁ prāpya nodvijet prāpya chāpriyam.",
+    "translation": "Do not get excited in happiness nor disturbed in sorrow.",
+    "message": "🌈 Chapter 5, Verse 20 teaches emotional stability. Happiness grows when you stop chasing highs and fearing lows. 🌙",
+    "keywords": ["emotion", "balance", "calm"]
+  },
+  {
+    "chapter": 6,
+    "verse": 7,
+    "shloka": "jitātmanaḥ praśhāntasya paramātmā samāhitaḥ.",
+    "translation": "The one who has conquered the mind is peaceful.",
+    "message": "🧘‍♀️ Chapter 6, Verse 7 teaches that true victory is mastery of your own mind. Peace begins inside you. ✨",
+    "keywords": ["mind", "victory", "peace"]
+  },
+  {
+    "chapter": 6,
+    "verse": 25,
+    "shloka": "śhanaiḥ śhanair uparamed buddhiyā dhṛiti-gṛihītayā.",
+    "translation": "Gradually, with determination, one should calm the mind.",
+    "message": "🌼 Chapter 6, Verse 25 says healing takes time. Be gentle with yourself — slow progress is still progress. 💛",
+    "keywords": ["mind", "patience", "calm"]
+  },
+  {
+    "chapter": 6,
+    "verse": 35,
+    "shloka": "asaṁśhayaṁ mahā-bāho mano durnigrahaṁ chalam.",
+    "translation": "The mind is restless and difficult to control.",
+    "message": "🌿 Chapter 6, Verse 35 tells you — it’s okay if your mind wanders. Keep bringing it back with love. 🌙",
+    "keywords": ["mind", "wandering", "focus"]
+  },
+  {
+    "chapter": 7,
+    "verse": 4,
+    "shloka": "bhūmir āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha.",
+    "translation": "Earth, water, fire, air, space, mind and intellect are My energies.",
+    "message": "✨ Chapter 7, Verse 4 reminds you that everything — even your thoughts — carry divine energy. Treat yourself kindly. 💛",
+    "keywords": ["energy", "divine", "self"]
+  },
+  {
+    "chapter": 7,
+    "verse": 12,
+    "shloka": "ye chaiva sāttvikā bhāvā rājasās tāmasāśh cha ye.",
+    "translation": "All states of being — goodness, passion, and ignorance — arise from Me.",
+    "message": "🌸 Chapter 7, Verse 12 teaches self-awareness. Your moods don't define you — they simply pass through you. 🌿",
+    "keywords": ["moods", "self", "awareness"]
+  },
+  {
+    "chapter": 7,
+    "verse": 28,
+    "shloka": "yeṣhāṁ tv anta-gataṁ pāpaṁ janānāṁ puṇya-karmaṇām.",
+    "translation": "Those whose sins are destroyed engage in devotion.",
+    "message": "💫 Chapter 7, Verse 28 reminds you that goodness attracts divine blessings. Keep doing good — life responds. ✨",
+    "keywords": ["devotion", "goodness", "blessings"]
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "shloka": "tasmāt sarveṣu kāleṣu mām anusmara yudhya cha.",
+    "translation": "Remember Me always and perform your duty.",
+    "message": "🌼 Chapter 8, Verse 7 says — work with faith. When you remember Krishna, even hard tasks feel lighter. 💛",
+    "keywords": ["duty", "faith", "work"]
+  },
+  {
+    "chapter": 8,
+    "verse": 14,
+    "shloka": "ananya-chetāḥ satataṁ yo māṁ smarati nityaśhaḥ.",
+    "translation": "One who constantly remembers Me is easily united with Me.",
+    "message": "🤍 Chapter 8, Verse 14 reminds you that thinking of Krishna even for a moment brings peace to the heart. 🌿",
+    "keywords": ["memory", "devotion", "heart"]
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "shloka": "raja-vidyā raja-guhyaṁ pavitram idam uttamam.",
+    "translation": "This knowledge is the king of education and the secret of secrets.",
+    "message": "✨ Chapter 9, Verse 2 says spiritual wisdom is priceless — it lights every corner of your life. 🌙",
+    "keywords": ["wisdom", "secret", "spiritual"]
+  },
+  {
+    "chapter": 9,
+    "verse": 18,
+    "shloka": "gatir bhartā prabhuḥ sākṣhī nivāsaḥ śharaṇaṁ suhṛit.",
+    "translation": "I am the goal, protector, witness, shelter, and friend.",
+    "message": "🤍 Chapter 9, Verse 18 reminds you — Krishna is your safest place. Always. 💛",
+    "keywords": ["shelter", "friend", "protector"]
+  },
+  {
+    "chapter": 10,
+    "verse": 8,
+    "shloka": "ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate.",
+    "translation": "I am the source of everything.",
+    "message": "🌟 Chapter 10, Verse 8 tells you that your life has a divine source. Stay connected — blessings flow naturally. 🌼",
+    "keywords": ["source", "divine", "life"]
+  },
+  {
+    "chapter": 10,
+    "verse": 11,
+    "shloka": "teṣhām evānukampārtham aham ajñāna-jaṁ tamaḥ.",
+    "translation": "Out of compassion, I destroy the darkness of ignorance.",
+    "message": "✨ Chapter 10, Verse 11 reminds you that Krishna gently removes confusion from your life — one moment at a time. 🌙",
+    "keywords": ["compassion", "confusion", "light"]
+  },
+  {
+    "chapter": 10,
+    "verse": 32,
+    "shloka": "sargāṇām ādir antaśh cha madhyaṁ chaivāham.",
+    "translation": "Of all creations, I am the beginning, middle, and end.",
+    "message": "💫 Chapter 10, Verse 32 teaches that Krishna is with you in every phase — beginnings, middles, and endings. 🤍",
+    "keywords": ["beginning", "end", "life"]
+  },
+  {
+    "chapter": 11,
+    "verse": 12,
+    "shloka": "divi sūrya-sahasrasya bhaved yugapad utthitā.",
+    "translation": "As if a thousand suns were to rise at once — such was His form.",
+    "message": "🌞 Chapter 11, Verse 12 reminds you of Krishna’s limitless power. Your worries are tiny before His light. ✨",
+    "keywords": ["power", "light", "divine"]
+  },
+  {
+    "chapter": 11,
+    "verse": 33,
+    "shloka": "nimitta-mātraṁ bhava savya-sāchin.",
+    "translation": "Become merely an instrument in the divine plan.",
+    "message": "🌿 Chapter 11, Verse 33 tells you to trust destiny — some things are meant to happen through you. 🌺",
+    "keywords": ["destiny", "plan", "trust"]
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "shloka": "sarvatra-gam achintyaṁ cha kūṭa-stham achalaṁ dhruvam.",
+    "translation": "The formless divine is everywhere and unchanging.",
+    "message": "🌼 Chapter 12, Verse 4 teaches that divine presence surrounds you constantly — in silence, in breath, in space. 🤍",
+    "keywords": ["divine", "everywhere", "calm"]
+  },
+  {
+    "chapter": 12,
+    "verse": 13,
+    "shloka": "adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha.",
+    "translation": "A devotee is free from hatred and full of compassion.",
+    "message": "💛 Chapter 12, Verse 13 teaches that kindness is the highest devotion. Lead with a soft heart. 🌿",
+    "keywords": ["kindness", "compassion", "love"]
+  },
+  {
+    "chapter": 12,
+    "verse": 17,
+    "shloka": "yo na hṛiṣhyati na dveshṭi na śhochati na kāṅkṣhati.",
+    "translation": "One who neither rejoices nor hates nor grieves nor desires is dear to Me.",
+    "message": "🕊️ Chapter 12, Verse 17 teaches emotional maturity — stay centered, and life becomes peaceful. 🌙",
+    "keywords": ["emotion", "peace", "maturity"]
+  },
+  {
+    "chapter": 13,
+    "verse": 28,
+    "shloka": "samaṁ paśhyan hi sarvatra samavasthitam īśhvaram.",
+    "translation": "Seeing the Lord equally present everywhere.",
+    "message": "🌏 Chapter 13, Verse 28 says that divine energy flows through all beings. Treat everyone with respect. 🤍",
+    "keywords": ["equality", "divine", "respect"]
+  },
+  {
+    "chapter": 14,
+    "verse": 20,
+    "shloka": "guṇān etān atītya trīn dehī deha-samudbhavān.",
+    "translation": "One rises above the three modes of nature.",
+    "message": "🌿 Chapter 14, Verse 20 teaches that you can rise beyond mood swings, habits, and impulses — awareness liberates. ✨",
+    "keywords": ["freedom", "mind", "nature"]
+  },
+  {
+    "chapter": 15,
+    "verse": 3,
+    "shloka": "na rūpam asyeha tathopalabhyate.",
+    "translation": "The material world’s form cannot truly be perceived.",
+    "message": "🌙 Chapter 15, Verse 3 reminds you that life’s illusions can confuse you — look deeper, beyond appearances. 🌌",
+    "keywords": ["illusion", "truth", "deep"]
+  },
+  {
+    "chapter": 15,
+    "verse": 19,
+    "shloka": "yo mām evam asaṁmūḍho jānāti puruṣhottamam.",
+    "translation": "One who knows Me without doubt knows everything.",
+    "message": "💫 Chapter 15, Verse 19 reminds you that devotion brings clarity — the heart understands what the mind cannot. 💛",
+    "keywords": ["clarity", "devotion", "wisdom"]
+  },
+  {
+    "chapter": 16,
+    "verse": 5,
+    "shloka": "daivī sampad vimokṣhāya nibandhāyāsurī matā.",
+    "translation": "Divine qualities lead to liberation.",
+    "message": "🌿 Chapter 16, Verse 5 teaches that honesty, kindness, and courage bring freedom. Cultivate your divine side. ✨",
+    "keywords": ["qualities", "divine", "freedom"]
+  },
+  {
+    "chapter": 16,
+    "verse": 21,
+    "shloka": "tri-vidhaṁ narakasyedaṁ dvāraṁ nāśhanam ātmanaḥ.",
+    "translation": "Lust, anger, and greed are three gates to hell.",
+    "message": "🔥 Chapter 16, Verse 21 warns you to stay away from toxic habits — they burn your peace. Choose calm. 🕊️",
+    "keywords": ["anger", "greed", "habits"]
+  },
+  {
+    "chapter": 17,
+    "verse": 14,
+    "shloka": "deva-dvija-guru-prājña-pūjanaṁ śhaucham ārjavam.",
+    "translation": "Respect, purity, and honesty are austerities of the body.",
+    "message": "🌼 Chapter 17, Verse 14 says self-discipline is sacred. Treat your body and actions with respect. 🤍",
+    "keywords": ["discipline", "body", "respect"]
+  },
+  {
+    "chapter": 18,
+    "verse": 9,
+    "shloka": "kāryaṁ karma karoti yaḥ sa sannyāsī cha yogī cha.",
+    "translation": "One who performs duty without attachment is a true renunciate.",
+    "message": "🌿 Chapter 18, Verse 9 teaches that real renunciation is in the heart — not running away, but acting without fear. 🌙",
+    "keywords": ["duty", "detachment", "strength"]
+  },
+  {
+    "chapter": 18,
+    "verse": 37,
+    "shloka": "yat tad agre viṣham iva pariṇāme ’mṛitopamam.",
+    "translation": "What feels bitter at first becomes nectar in the end.",
+    "message": "🍃 Chapter 18, Verse 37 reminds you that discipline feels hard but brings sweet results. Keep going. 💛",
+    "keywords": ["discipline", "growth", "reward"]
+  },
+  {
+    "chapter": 18,
+    "verse": 65,
+    "shloka": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru.",
+    "translation": "Think of Me, become My devotee, worship Me.",
+    "message": "🤍 Chapter 18, Verse 65 is Krishna's pure love — just remember Him, and He holds your hand through everything. 🌺",
+    "keywords": ["devotion", "love", "faith"]
+  }
+]
