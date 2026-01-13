@@ -26,7 +26,7 @@ It allows users to share their feelings—such as sadness, loneliness, fear, con
 ✅ First message from Krishna himself 🌸
 
 🛠️ Tech Stack
-    React.js – Frontend framework
-    JavaScript (ES6+) – Logic & functionality
-    HTML5 & CSS3 – Structure & styling
+    React.js – Frontend framework,
+    JavaScript (ES6+) – Logic & functionality,
+    HTML5 & CSS3 – Structure & styling,
     JSON – Bhagavad Gita data storage
