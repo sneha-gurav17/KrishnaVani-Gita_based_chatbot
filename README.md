@@ -1,16 +1,32 @@
-# React + Vite
+🌸 KrishnaVani – A Bhagavad Gita–Based Spiritual Chatbot 🌸
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+“Whenever you feel lost, remember — Krishna is always with you.” 💛
 
-Currently, two official plugins are available:
+KrishnaVani is a calm, spiritual, and emotionally supportive chatbot inspired by the teachings of the Bhagavad Gita.
+It allows users to share their feelings—such as sadness, loneliness, fear, confusion, or stress—and responds with relevant Gita shlokas, translations, and comforting messages, making it feel like Lord Krishna is gently guiding you.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+✨ Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✅ Gita-based responses with:
+    Chapter number
+    Verse number
+    Sanskrit shloka
+    English translation
+    Emotional, comforting message with emojis
 
-## Expanding the ESLint configuration
+✅ Graceful handling of invalid input
+    If input is random or unclear, Krishna responds gently instead of showing errors
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Smooth UI & UX
+    Typing indicator (“Krishna is thinking…” style)
+    Auto-scroll chat window
+    Clean, calming design
+
+✅ First message from Krishna himself 🌸
+
+🛠️ Tech Stack
+    React.js – Frontend framework
+    JavaScript (ES6+) – Logic & functionality
+    HTML5 & CSS3 – Structure & styling
+    JSON – Bhagavad Gita data storage
